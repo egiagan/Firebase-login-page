@@ -1,10 +1,10 @@
 // Initialize Firebase(Firebase Sample Project)
 var config = {
-  apiKey: "AIzaSyAZDA9THc-BEPqP6HeiogeCxjx9LjK70hc",
-  authDomain: "demo2-dd004.firebaseapp.com",
-  databaseURL: "https://demo2-dd004.firebaseio.com",
-  projectId: "demo2-dd004",
-  storageBucket: "demo2-dd004.appspot.com",
-  messagingSenderId: "643033387233"
+  apiKey: "AIzaSyDAlth1sxiP-S3r3fVDXhwadVVnEvpdO6s",
+  authDomain: "login-egi-agan.firebaseapp.com",
+  databaseURL: "https://login-egi-agan-default-rtdb.firebaseio.com",
+  projectId: "login-egi-agan",
+  storageBucket: "login-egi-agan.firebasestorage.app"
+  messagingSenderId: "395059466114"
 };
   var init = firebase.initializeApp(config);
